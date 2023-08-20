@@ -1,6 +1,6 @@
 # Neural-Networks
 
-In [Project 1](https://github.com/Seymour22/Neural-networks/blob/main/Project%201%20Action%20detection%20using%20OpenCV.ipynb) I display if a head turns left or right using OpenCV algorithm that detects these action from a set of video frames. Here I train the algorithm on video files rather than dynamic capture from the webcam. This enables to build a model from videos acquired from multiple sources.
+In [Project 1](https://github.com/Seymour22/Neural-networks/blob/main/Project%201%20Action%20detection%20using%20OpenCV.ipynb) I display if a head turns left or right using OpenCV algorithm that detects these action from a set of video frames. Here I train the algorithm using pre-recorded video files. This pipeline can therefore be used to build a application that is trained on videos from multiple sources.
 
 
 In [Project 2](https://github.com/Seymour22/Neural-Networks/blob/main/Project%202%20Histology%20colourisation%20using%20conditional%20GAN.ipynb) I predict the colourisation of histology samples from their grey-scale images using a conditional GAN.
